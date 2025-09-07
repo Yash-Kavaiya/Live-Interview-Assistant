@@ -1,0 +1,13 @@
+{
+  "name": "gemini-live-example",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Gemini Live API Example for Interview Assistant",
+  "main": "gemini-live-example.js",
+  "scripts": {
+    "start": "node gemini-live-example.js"
+  },
+  "dependencies": {
+    "@google/genai": "^0.21.0"
+  }
+}
